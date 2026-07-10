@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6C63FF&text=Mustafa%20Altaş&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# Hi 👋 I'm Mustafa Altaş
+# Hi 👋 I'm Muhamemd Mustafa Altaş
 
 ### AI Engineer • Backend Developer • Computer Engineering Student
 
@@ -111,3 +111,172 @@ Currently I'm focused on building production-ready applications while continuous
 # 💡 Engineering Philosophy
 
 > *"I believe software should do more than function — it should help people think better, grow faster, and solve meaningful problems."*
+> ---
+
+# 🌟 Featured Projects
+
+## 🌳 MyMentor
+
+> **An AI-powered personal growth platform designed to help users build meaningful habits, reflect on their daily lives, and continuously improve themselves through guided journeys.**
+
+| Category | Details |
+|-----------|----------|
+| **Role** | Full-Stack Mobile Developer |
+| **Platform** | React Native + Expo |
+| **Backend** | Firebase |
+| **Architecture** | Component-Based Architecture |
+| **Status** | 🚧 Active Development |
+
+### Key Features
+
+- 🌱 Habit & journey tracking
+- 📖 Daily reflection (Mirror)
+- 🌳 Beautiful Garden visualization
+- 🔐 Secure Authentication
+- ☁ Cloud Synchronization
+- 🤖 AI-powered mentoring *(Coming Soon)*
+
+**Tech Stack**
+
+`React Native` `Expo` `TypeScript` `Firebase`
+
+---
+
+## 🛡 GuardianAI
+
+> **Enterprise-grade AI multi-agent platform built using LangGraph, LLMs, and Retrieval-Augmented Generation (RAG) to automate intelligent workflows.**
+
+| Category | Details |
+|-----------|----------|
+| **Role** | AI Backend Engineer |
+| **Language** | Python |
+| **Framework** | FastAPI |
+| **AI Stack** | LangGraph + LangChain + Gemini |
+| **Architecture** | Multi-Agent |
+
+### Highlights
+
+- 🤖 Multi-Agent Architecture
+- 📚 Retrieval-Augmented Generation
+- 🧠 LLM Orchestration
+- ⚡ FastAPI Backend
+- 🗂 Vector Database Integration
+- 🔄 Modular Agent Design
+
+**Tech Stack**
+
+`Python`
+
+`FastAPI`
+
+`LangGraph`
+
+`LangChain`
+
+`Gemini`
+
+`RAG`
+
+`Vector Database`
+
+`Docker`
+
+Repository:
+
+👉 https://github.com/Muhammed-21mustafa/GuardianAI
+
+---
+
+## ✅ CoreVerify
+
+> **AI-powered verification system designed to improve information reliability using intelligent validation pipelines and modern backend architecture.**
+
+| Category | Details |
+|-----------|----------|
+| **Role** | Backend Developer |
+| **Language** | Python |
+| **Framework** | FastAPI |
+| **Focus** | AI Verification |
+
+### Features
+
+- Secure API Design
+
+- Modular Architecture
+
+- AI-assisted Validation
+
+- Modern Backend Practices
+
+Repository:
+
+👉 https://github.com/Muhammed-21mustafa/CoreVerify
+
+---
+
+## 🤖 Rehberim AI Backend
+
+> **Scalable AI backend service providing LLM-powered capabilities for the Rehberim ecosystem.**
+
+| Category | Details |
+|-----------|----------|
+| **Role** | AI Backend Developer |
+| **Language** | Python |
+| **Framework** | FastAPI |
+| **Focus** | AI APIs |
+
+### Features
+
+- REST API
+
+- Authentication
+
+- AI Model Integration
+
+- Prompt Engineering
+
+- Modular Services
+
+- Production-ready Structure
+
+Repository:
+
+👉 https://github.com/Muhammed-21mustafa/rehberim-ai-backend
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
