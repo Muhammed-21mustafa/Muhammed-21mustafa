@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6C63FF&text=Mustafa%20Altaş&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-# Hi 👋 I'm Muhamemd Mustafa Altaş
+# Hi 👋 I'm Muhammed Mustafa Altaş
 
 ### AI Engineer • Backend Developer • Computer Engineering Student
 
