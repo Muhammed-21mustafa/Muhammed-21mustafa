@@ -280,3 +280,95 @@ Repository:
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
+
+
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Current:
+  Role: AI Engineer & Backend Developer
+
+Building:
+  - MyMentor
+  - AI Agents
+  - RAG Applications
+  - Production Backend APIs
+
+Learning:
+  - Advanced LLM Architectures
+  - MCP
+  - Multi-Agent Systems
+  - Distributed Backend Systems
+  - Docker & DevOps
+
+Goal:
+  Become an AI Engineer capable of building production-ready intelligent systems.
+```
+
+---
+
+# 🚀 2026 Roadmap
+
+- ✅ Build production-ready AI applications
+- ✅ Master FastAPI & Spring Boot
+- ✅ Deep dive into LLMs and RAG architectures
+- ✅ Contribute to Open Source AI projects
+- ✅ Publish high-quality technical projects
+- ✅ Continuously improve software engineering skills
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammed-21mustafa&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Muhammed-21mustafa/Muhammed-21mustafa/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** Snake animasyonu çalışması için daha sonra GitHub Actions ekleyeceğiz.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:mustafaaltas212@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammed-mustafa-alta%C5%9F-a53944241/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Muhammed-21mustafa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💜 Thanks for visiting my profile!
+
+*"Building intelligent software that creates real-world impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
+
+</div>
