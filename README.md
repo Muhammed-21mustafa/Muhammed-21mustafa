@@ -1,122 +1,113 @@
 <div align="center">
-  <h1>Muhammed Mustafa Altaş</h1>
-  <h3>AI & Backend Engineer</h3>
-  <p><em>Building intelligent agentic systems and robust server-side architectures.</em></p>
-  
-  <br />
 
-  <a href="https://www.linkedin.com/in/muhammed-mustafa-alta%C5%9F-a53944241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mustafaaltas212@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6C63FF&text=Mustafa%20Altaş&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+# Hi 👋 I'm Mustafa Altaş
+
+### AI Engineer • Backend Developer • Computer Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Backend+Engineer;LLM+%7C+RAG+%7C+LangGraph+Developer;React+Native+Developer;Always+Learning+Something+New"/>
+
+<br>
+
+<a href="https://github.com/Muhammed-21mustafa">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammed-mustafa-alta%C5%9F-a53944241/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mustafaaltas212@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7F5AF0"/>
+
 </div>
 
 ---
 
-### 🧠 Hakkımda
+# 🚀 About Me
 
-Bandırma Onyedi Eylül Üniversitesi'nde Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. Geliştirme odağım tamamen **Yapay Zeka Mimarileri (RAG, Agentic Workflows)** ve bunları ölçeklenebilir şekilde ayakta tutan **Backend (Arka Plan)** sistemleri üzerine. 
+I'm a Computer Engineering student passionate about building **AI-powered software** and **scalable backend systems**.
 
-Mobil veya web arayüzlerini yalnızca arka planda geliştirdiğim akıllı sistemleri ve API'leri son kullanıcıya ulaştırmak için bir köprü olarak kullanıyorum. Asıl tutkum LangGraph ile ajanlı iş akışları tasarlamak, vektör veritabanlarını yönetmek ve katmanlı mimariye (Clean Architecture) uygun sağlam altyapılar kurmak. Şu sıralar 90 günlük yoğun bir AI mühendisliği kampındayım.
+Instead of only creating user interfaces, I enjoy designing intelligent systems that combine **Large Language Models (LLMs)**, **RAG architectures**, **AI Agents**, and modern backend technologies to solve real-world problems.
 
-- 🎯 **Hedef:** Otonom sistemler ve kompleks backend entegrasyonları inşa etmek.
+Currently I'm focused on building production-ready applications while continuously improving my software engineering skills.
 
----
+### 🎯 Current Focus
 
-### 🛠️ Tech Stack
-
-<div align="center">
-  <p><strong>🧠 Yapay Zeka & Veri</strong></p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,numpy,pandas&theme=dark" alt="AI and Data" />
-  <p><em>LangGraph, LangChain, RAG, Gemini, Vector DB (Supabase)</em></p>
-  
-  <br>
-
-  <p><strong>⚙️ Backend & Veritabanı</strong></p>
-  <img src="https://skillicons.dev/icons?i=java,spring,fastapi,php,mysql,postgres&theme=dark" alt="Backend and Database" />
-  
-  <br>
-
-  <p><strong>🏗️ Mimari, DevOps & Araçlar</strong></p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash&theme=dark" alt="DevOps and Tools" />
-
-  <br>
-
-  <p><strong>📱 Arayüz (İkincil Araçlar)</strong></p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,js,html,css&theme=dark" alt="Frontend and Mobile" />
-</div>
+- 🤖 AI Engineering
+- ⚙ Backend Development
+- 🧠 LLM Applications
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🕸 LangGraph Multi-Agent Systems
+- ☁ Scalable API Development
+- 📱 React Native Applications
 
 ---
 
-### 🚀 Öne Çıkan Projeler
+# 🛠 Tech Stack
 
-#### 🛡️ GuardianAI
-E-ticaret iade uyuşmazlıklarını otonom olarak yöneten **ajanlı (agentic) karar destek platformu**. Gelişmiş LLM komut istemleri, LangGraph ve RAG metodolojileri kullanarak iade taleplerini analiz eden modüler bir sistem inşa ettim. Docker kullanılarak konteynerize edilmiştir. *(2026 AI Hackathon Projesi)*
+## 🤖 Artificial Intelligence
 
-#### 🏥 Diş Kliniği Randevu Sistemi
-Controller, Service ve Repository katmanlarının açıkça ayrıldığı, katmanlı mimari (Clean Architecture) prensiplerine sadık kalarak geliştirilmiş sağlam bir backend projesi. Güçlü API tasarımı ve veritabanı entegrasyonu odaklıdır.
+<p align="left">
 
-#### 🎵 Müzikal DNA (Spotify Karakter Analizi)
-Kullanıcıların Spotify dinleme geçmişini ve ses verilerini analiz ederek psikolojik profiller çıkartan, Python ve Streamlit tabanlı veri odaklı bir uygulama.
+<img src="https://skillicons.dev/icons?i=python"/>
 
----
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 
-### 📊 GitHub İstatistikleri
+<img src="https://img.shields.io/badge/LangGraph-5B21B6?style=for-the-badge"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammed-21mustafa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-21mustafa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<img src="https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge"/>
 
-<div align="center">
-  <a href="https://linkedin.com/in/senin-linkedin-uzantin">LinkedIn</a> • 
-  <a href="mailto:senin.epostan@gmail.com">E-posta</a>
-</div>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/VectorDB-7C3AED?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/AI%20Agents-4F46E5?style=for-the-badge"/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</p>
 
 ---
 
-<div align="center">
-  <a href="https://linkedin.com/in/senin-linkedin-uzantin">LinkedIn</a> • 
-  <a href="mailto:senin.epostan@gmail.com">E-posta</a>
-</div>
+## ⚙ Backend
 
+<p>
 
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,fastapi"/>
 
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase"/>
 
+</p>
 
+---
 
+## 📱 Mobile
 
+<p>
 
+<img src="https://skillicons.dev/icons?i=react,ts"/>
 
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react"/>
 
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo"/>
 
+</p>
 
+---
 
+## ☁ DevOps & Tools
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammed-21mustafa/Muhammed-21mustafa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammed-21mustafa/Muhammed-21mustafa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Muhammed-21mustafa/Muhammed-21mustafa/output/github-contribution-grid-snake.svg">
-</picture>
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,idea"/>
+
+</p>
+
+---
+
+# 💡 Engineering Philosophy
+
+> *"I believe software should do more than function — it should help people think better, grow faster, and solve meaningful problems."*
